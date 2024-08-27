@@ -5,6 +5,9 @@
 
 - create React App
 - Configure Tailwindcss
+- Header
+ - Login Form
+ - Sign Up
 
 # Features
 - Login/sign up page
@@ -19,7 +22,9 @@
             - MovieList * N 
 - NetflixGPT
   - search bar
-  - Movie suggestions
+  - Movie 
+  
+  - Note: to bulid  large scale form validation   to use FORMIK library from reactjs
 
 
         
